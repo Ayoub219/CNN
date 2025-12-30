@@ -3,3 +3,4 @@ torch
 torchmetrics
 torchvision
 ipykernel
+matplotlib
